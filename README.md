@@ -5,3 +5,7 @@ Users can have an observations on the data, a view on bar plot and a scatterplot
 
 p/s: Save the world map image in a folder named "www" if you want to run the code, and download the 9 datasets files.
  
+## Acknowledgments
+Contributors:
+1. TAN KUANG JACK
+2. TIOW KIT KEONG
