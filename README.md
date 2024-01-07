@@ -7,5 +7,5 @@ p/s: Save the world map image in a folder named "www" if you want to run the cod
  
 ## Acknowledgments
 Contributors:
-1. TAN KUANG JACK
-2. TIOW KIT KEONG
+1. TIOW KIT KEONG
+2. TAN KUANG JACK
